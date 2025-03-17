@@ -18,7 +18,7 @@
 ![Quizzes](https://github.com/rakirakesh007/science-facts-app/raw/main/screenshot-timeline.png)  
 
 ### 🤖 AI Chatbot  
-![Chatbot](https://github.com/rakirakesh007/science-facts-app/raw/main/screenshot-chatboy.png)  
+![Chatbot](https://github.com/rakirakesh007/science-facts-app/raw/main/screenshot-chatbot.png)  
 
 ## 📥 Download Now  
 🔗 **[Click Here to Download APK](https://github.com/rakirakesh007/science-facts-app/raw/main/app-debug.apk)**  
